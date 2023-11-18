@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="LCDB-HOME.css">
     <script src="LCDB-HOME.js"></script>
     <title>La Casa De Banana Home</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
